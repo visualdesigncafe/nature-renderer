@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: If you've already asked for help with a problem and confirmed something is broken with Nature Renderer itself, create a bug report.
 title: ''
 labels: ''
 assignees: ''
