@@ -6,6 +6,3 @@ contact_links:
   - name: Feature Request
     url: https://github.com/visualdesigncafe/nature-renderer/discussions/new?category=ideas
     about: 'Suggest any ideas you have using our discussion forums.'
-  - name: Bug Report
-    url:  https://github.com/visualdesigncafe/nature-renderer/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=
-    about: If you've already asked for help with a problem and confirmed something is broken with Nature Renderer itself, create a bug report.
